@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #003366;
+    margin-left: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+ul {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.destaque {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
