@@ -1,0 +1,9 @@
+---
+Nome: Gabriel Lucas Marques de Moura
+RA: 824124182
+Curso: Engenharia de Software
+Semestre: 6°
+Bairro: São Paulo
+Se trabalha: Estagiário
+Objetivo: Atuar como Engenheiro de Software
+---
